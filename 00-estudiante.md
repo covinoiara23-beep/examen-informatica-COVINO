@@ -1,7 +1,7 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
-- **Tecnicatura:** (Higiene y Seguridad / Comercio Exterior / Marketing Digital / Seguros / Administración de Empresas)
-- **Cohorte / turno:**
-- **Fecha:**
-- **Consigna que desarrollo:** `consignas/` + nombre del archivo
+- **Apellido y nombre:** Covino Iara
+- **Tecnicatura:** Higiene y Seguridad
+- **Cohorte / turno: Mañana**
+- **Fecha: 10/11**
+- **Consigna que desarrollo:** `consignas/` + `higiene-seguridad.md`
