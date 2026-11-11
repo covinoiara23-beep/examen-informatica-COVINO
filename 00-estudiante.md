@@ -4,4 +4,4 @@
 - **Tecnicatura:** Higiene y Seguridad
 - **Cohorte / turno: Mañana**
 - **Fecha: 10/11**
-- **Consigna que desarrollo:** `consignas/` + `higiene-seguridad.md`
+- **Consigna que desarrollo:** `consignas/higiene-seguridad.md`
